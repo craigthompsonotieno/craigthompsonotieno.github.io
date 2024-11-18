@@ -1,1 +1,10 @@
-# craigthompsonotieno.github.io
+# Data Scientist| Statistician
+
+### Education
+
+
+### Work Experience
+
+### Projects
+
+
