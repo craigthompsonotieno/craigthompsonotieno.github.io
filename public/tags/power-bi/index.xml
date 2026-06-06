@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Power BI on Craig Otieno</title>
+    <link>https://localhost:1313/tags/power-bi/</link>
+    <description>Recent content in Power BI on Craig Otieno</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>craigthompsonotieno@gmail.com (Craig Thompson Omondi Otieno)</managingEditor>
+    <webMaster>craigthompsonotieno@gmail.com (Craig Thompson Omondi Otieno)</webMaster>
+    
+    <lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://localhost:1313/tags/power-bi/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Kenya DHS MNCAH Equity Analysis</title>
+      <link>https://localhost:1313/projects/kenya-dhs-analysis/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <author>craigthompsonotieno@gmail.com (Craig Thompson Omondi Otieno)</author>
+      <guid>https://localhost:1313/projects/kenya-dhs-analysis/</guid>
+      <description>A survey-weighted health equity analysis of MNCAH and household indicators across Kenya’s 47 counties using DHS 2014 microdata.</description>
+      
+    </item>
+    
+    <item>
+      <title>Maji Ndogo: Water Access Analysis</title>
+      <link>https://localhost:1313/projects/maji-ndogo/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <author>craigthompsonotieno@gmail.com (Craig Thompson Omondi Otieno)</author>
+      <guid>https://localhost:1313/projects/maji-ndogo/</guid>
+      <description>A SQL, Python, and Power BI project analyzing water access, infrastructure gaps, queue times, and data integrity in a fictional African nation.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+locale = "en"
+label = "English"
+weight = 1
+title = "Craig Otieno"
+
+[params]
+  displayName = "English"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  description = "Data Scientist | Data Analyst | Data Engineer | Statistician | Researcher"
+
+[params.author]
+  name = "Craig Thompson Omondi Otieno"
+  email = "craigthompsonotieno@gmail.com"
+  image = "images/headshot2_circle.png"
+  headline = "Data Scientist | Data Engineer | Researcher"
+
+  bio = "Statistician, economist, and data scientist with experience supporting the World Bank, UN agencies, and governments through data analytics, impact evaluation, geospatial analysis, and evidence-based policy research."
+
+  links = [
+    { linkedin = "https://www.linkedin.com/in/craigthompsonotieno/" },
+    { github = "https://github.com/craigthompsonotieno" },
+    { email = "mailto:craigthompsonotieno@gmail.com" }
+  ]
